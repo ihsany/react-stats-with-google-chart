@@ -5,7 +5,7 @@ import utils from '../utils';
 function LoginForm() {
     const [user, setUser] = useState({name:"", email:"", password:"", isAuthanticated:false});
     const adminUser = {
-      name: "Ihsan Yaprak",
+      name: "Ihsan",
       email: "ihsan@factorial.co",
       password: "123"
     };
