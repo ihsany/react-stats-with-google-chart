@@ -6,7 +6,7 @@ function LoginForm() {
     const [user, setUser] = useState({name:"", email:"", password:"", isAuthanticated:false});
     const adminUser = {
       name: "Ihsan",
-      email: "ihsan@factorial.co",
+      email: "ihsan@mail.com",
       password: "123"
     };
 
